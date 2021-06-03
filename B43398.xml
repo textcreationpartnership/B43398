@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The manner of the killing pensionary de Witt and his brother Ruward van Putten in the Hague, the 20th of August, 1672</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43398</idno><idno type="EEBO-CITATION">489260592</idno>
+  <idno type="VID">208633</idno>
+  <idno type="EEBO-PROQUEST">2240881266</idno>
+  
+            <idno type="OCLC"> 489260592</idno>
+            <idno type="OCLC">ocn 489260592</idno>
+            <idno type="STC">Wing M475aA</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43398)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208633)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2955:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The manner of the killing pensionary de Witt and his brother Ruward van Putten in the Hague, the 20th of August, 1672</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Sold by John Overton at the White Horse without Newgate, and Dorman Newman in the Poultrey,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>De Wit = Johan de Witt. Ruward van Putten = Cornelis de Witt, who was governor of Putten in 1672.</note>
+                  <note>"The sentence of the Court of Holland and West-Friesland against Mr. Cornelis de Wit, antient Burger-Master of the town of Dort, pronounced the 20 August, 1672."</note>
+                  <note>Reproduction of original in: New York Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Witt, Johan de, 1625-1672 --  Early works to 1800.</term>
+               <term type="personal_name">Witt, Cornelis de, 1623-1672 --  Early works to 1800.</term>
+               <term type="topical_term">Lynching --  Netherlands --  Early works to 1800.</term>
+               <term type="geographic_name">Dutch War, 1672-1678 --  Early works to 1800.</term>
+               <term type="geographic_name">Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:208633:1"/>
+            <pb facs="tcp:208633:2"/>
+            <head>The Manner of the Killing PENSIONARY <hi>DE WITT,</hi> and his Brother <hi>RƲWART van PƲTTEN</hi> in the <hi>HAGƲE,</hi> the 20<seg rend="sup">•h</seg> of <hi>August,</hi> 1672.</head>
+            <div type="part">
+               <p>
+                  <figure>
+                     <figDesc>a series of depictions of the execution of Cornelius de Wit and his brother Johan</figDesc>
+                     <figure>
+                        <figDesc>depiction of execution</figDesc>
+                     </figure>
+                     <figure>
+                        <figDesc>depiction of execution</figDesc>
+                     </figure>
+                     <figure>
+                        <figDesc>depiction of execution</figDesc>
+                     </figure>
+                     <figure>
+                        <figDesc>depiction of execution</figDesc>
+                     </figure>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Sentence of the Court of <hi>Holland</hi> and <hi>West-Fries<g ref="char:EOLhyphen"/>land,</hi> against Mr. <hi>Cornelis de Wit,</hi> antient Burger-Ma<g ref="char:EOLhyphen"/>ster of the Town of <hi>Dort,</hi> pronounced the 20 <hi>Au<g ref="char:EOLhyphen"/>gust,</hi> 1672.</head>
+               <p>
+                  <hi>THE Court of</hi> Holland <hi>having seen and examined the several Points and Articles given in by the Procurator-General of the said Court against Mr.</hi> Cornelis de Wit, <hi>ancient Burgermaster of the Town of</hi> Dort, <hi>and</hi> Ruward <hi>of the Lands of</hi> Putten, <hi>at present Prisoner in the</hi> Voorpoort, <hi>together with his Examination and Confession, and the Allegations of the several Witnesses, declare the said Prisoner to have forfeited all his Dignities and Employments which he now poss<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sses, and banish him out of the Provinces of</hi> Holland <hi>and</hi> West-Friesland, <hi>never to return into the same, on pain of Death, and that he accordingly quit the said Coun<g ref="char:EOLhyphen"/>tries with the first, and farther condemn him in the Charges of his Trial.</hi> Actum <hi>by the Heeren</hi> Adriaen Pauw, Aelbrecht Nierop, Willem Goes, Frederick van Lier, Cornelis Baen, <hi>and</hi> Matheus Gool, <hi>Councellors of</hi> Holland <hi>and</hi> West-Friesland, <hi>the</hi> 20 Aug. 1672.</p>
+               <p>BEfore this Sentence was made known to the people, the Barber <hi>Tichelaar</hi> was re<g ref="char:EOLhyphen"/>leased, who no sooner came out of Prison, but he went up and down the City, and told them, he had made good his Charge against <hi>Ruwart van Putten,</hi> and that now he was Convicted, and had received his Sentence of Perpetual Banishment from the Lords: But notwithstanding all, that he was set at liberty again.</p>
+               <p>This being more and more published, occasioned a very great murmuring amongst the Citizens, judging it highly unreasonable: The Barber being set at liberty, they conclu<g ref="char:EOLhyphen"/>ded his Accusation against <hi>Ruwart van Putten</hi> must needs be true, otherwise he had certainly been punished, and the <hi>Ruwart</hi> cleared; hence they did conclude, it was clear and evident, that <hi>Ruwart van Putten</hi> must have been privy to the Design and Plot against the Person of his Highness the Prince of <hi>Orange,</hi> and that he did justly deserve Death for the same.</p>
+               <p>Whilst these things were thus Bruted about, the Pensionary <hi>De Witt</hi> came in his Coach with two Horses, to fetch his Brother from the Prison; but so soon as he lighted out of his Coach, and was gone into the Prison, the Citizens caused the Coach to go back. And about Eleven of the Clock, they both coming down to go forth, were stopt by the Watch, who by their thrusts, and threatnings to shoot them, if they did not go in again, they were forced to retire.</p>
+               <p>Hereupon came the Body of the Watch to assist the others, Beating an Alarum, which brought all the Six Companies of the City together in Armes: Two whereof placed themselves near the Prison-door, the rest stood in the outward Court. Three Troops of Horse lying then in the Town, took the Alarum, and quickly Mounted; one of the Troops placed themselves at the ordinary Stand; the other two came to the Gate, and desired the Citizens to let them through; but were denied, and stopt by the multitude of Pikes, that stood against them to obstruct their March.</p>
+               <p>In the mean while, there came a Report, that the Bores were coming from all parts round about to plunder the <hi>Hague;</hi> whereupon the Troopers were sent to the Town-Ditches and Draw-Bridges to keep them out; but that report proved nothing.</p>
+               <p>About six-a-Clock in the Evening the Citizens resolved to break open the Prison, and and fetch out the two Brothers, because they suspected they had a design to get away in the night, by force or stealth: Hereupon they began to shoot through the Door, and that way failing, they fetch Smiths Hammers and Sledges, and broke the Locks and Bolts in pieces, so getting in, Ran up in great Numbers and Companies into the Chamber, found <hi>Ruwart van Putten</hi> in his Japan-Gown lying on his Bed, and his Brother the Pensi<g ref="char:EOLhyphen"/>onary sitting upon the Beds feet, reading to him; who turning to the Burgers asked them, what they intended by that forcible Entry, and what they would have? Unto which no<g ref="char:EOLhyphen"/>thing was answered, but that they must immediately go down; and thereupon pulled <hi>Ruwart van Putten</hi> from his Bed, not suffering him any farther to dress himself: Both of them were forced down the Stairs, with Curses, Oaths, and bitter Railings, some push<g ref="char:EOLhyphen"/>ing them, others thrusting them, so that the Pensionary was wounded with a Pike a little above the Eye, before he came to the Door. No sooner were they come into the Street but they were presently assaulted with Blows and Kicks by the Burgers, who would have forced them to the Scaffold, there to have shot them to Death.</p>
+               <p>But some of them could not stay so long, so that <hi>Ruwart van Putten</hi> was first knockt down underfoot, and five or six steps from him his Brother Pensionary received a blow upon his forehead, by a But-end of a Musket, and fell also; but not being dead, was shot with a Pistol through his head, and then presently gave up the Ghost. The <hi>Ruwart</hi> ly<g ref="char:EOLhyphen"/>ing upon the ground received many Stabs in his Body: After which both of them recei<g ref="char:EOLhyphen"/>ved many shots.</p>
+               <p>Hereupon approached the Rabble, and tore their Clothes in pieces from their Bodies: and drew their Carkasses naked along the Streets to the Scaffold, where <hi>Ruwart van Put<g ref="char:EOLhyphen"/>ten,</hi> not being quite dead, gave some dying groans. After the Bodies were brought on the Scaffold, they were hanged on the Strapado, with their Heads downwards, all be<g ref="char:EOLhyphen"/>smeared with buffetings and spitting: After this shameful act was ended, the last part of this true Tragedy began by some, who cut off their Hair, beat out their Teeth, pul<g ref="char:EOLhyphen"/>led their Tongues out of their Mouths, cut off their Noses, Ears, and Privy-Members, Thumbs, Fingers and Toes, from their Hands and Feet; and all this with such despe<g ref="char:EOLhyphen"/>rate Oaths and Curses, the like was never heard!</p>
+               <p>But not contented with their External Parts, they cut open their Breasts and Bellies, and pulled out their Hearts and Bowels, so that they lookt more like the Bodies of torn Beasts than Men.</p>
+               <p>At length the Darkness of the night ended this terrible Tragedy.</p>
+               <p>The Burgers being disperst, the Bodies were taken down, and privately buried some days after.</p>
+               <p>The people sold the Members they had cut off; a Finger for 15 Stivers, a Joint for 12 Stivers, an Ear for 25 Stivers, and a Toe for 10 Stivers, <hi>&amp;c.</hi>
+               </p>
+               <p>Also they bought pieces of their Clothes to keep for Remains.</p>
+            </div>
+            <div type="part">
+               <head>The Explanation of the Picture.</head>
+               <list>
+                  <item>
+                     <hi>No. 1.]</hi> Sheweth <hi>Jan de Witt</hi> pusht in the Head by a Pike, and the blow he received up<g ref="char:EOLhyphen"/>on the Breast with a Musquet, His Brother in a Japan-Gown, Beaten with Fists, Swords, <hi>&amp;c.</hi> and thrown down, and threatned to be knockt with a Sledg: The Burgers sitting upon the Penthouses, the Coach stands ready for flight, two Companies of Burgers stand upon the Place.</item>
+                  <item>
+                     <hi>No. 2.]</hi> Sheweth, How the <hi>Ruwart van Putten</hi> was dragged out in his Japan-Gown by the Sea-men, and torn apieces, received a Pistol-shot in his Loins, and a thrust in his left Breast with a Sword, a blow with a Halbert on his head, some strike him with the But-end of their Musquets, <hi>Jan de Witt</hi> falls down with his hands under his Head, was shot by the Burgers on one side that he tumbled over and over.</item>
+                  <item>
+                     <hi>No. 3.]</hi> Shews, The Bodies of the two <hi>De Witts,</hi> after the cutting off their Noses, Ears, Fingers, and other Members, the Pensionary in his Drawers, and the <hi>Ruwart van Putten</hi> stark naked, bound with Matches, and dragged to the Scaffold, the multitude Triumphing with the Velvet Coat, Breeches, <hi>&amp;c.</hi> of <hi>John De Witt,</hi> also the Japan-Gown of the <hi>Ruwarts,</hi> the Burgers here stand in order again.</item>
+                  <item>
+                     <hi>No. 4.]</hi> Represents, The Bodies of the <hi>De Witts</hi> hanging on the Strapado upon the Scaf<g ref="char:EOLhyphen"/>fold, without Nose, Ears, Toes, and Fingers, the one was cut open like a Hog, his Bowels and Heart torn out of his Body, which was thrust through many a time, an <hi>East-India</hi> Sea-man fastens his Lungs and Liver to the Pales, and the rest laughing and sporting; here stands the two Companies upon the Place; and the two Companies that stood on the <hi>Viverberg.</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Sold by <hi>John Overton</hi> at the White Horse without Newgate, and <hi>Dorman Newman</hi> in the <hi>Poultrey,</hi> 1673.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
